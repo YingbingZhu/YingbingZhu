@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that focus on innovative uses of big data analytics.
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yingbing-zhu).
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Kpop lover
+- ⚡ Fun fact: Dog lover, Kpop dancer
 
 <!---
 Yingbing-Zhu/Yingbing-Zhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
