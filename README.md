@@ -1,9 +1,14 @@
 - 👋 Hi, I’m @Yingbing-Zhu
-- 👀 I’m interested in software development, and data-driven solutions for real-world problems.
-- 🌱 I’m currently learning distributed systems, networks and enhancing my proficiency in front-end.
-- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yingbing-zhu).
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Dog lover, Kpop dancer
+- 💻 Full-stack Developer | Data Engineer
+- Pronouns: She/Her
+  
+- 🐾 Dog person — will pet every dog I meet
+- ☕ 100% powered by ice cream, matcha lattes and VS Code
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/Yingbing-Zhu)
 
 <!---
 Yingbing-Zhu/Yingbing-Zhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
